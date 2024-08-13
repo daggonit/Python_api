@@ -1,0 +1,1 @@
+pip install requests citipy pandas matplotlib numpy
